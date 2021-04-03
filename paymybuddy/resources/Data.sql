@@ -1,5 +1,6 @@
 # paymybuddy
 
+
 CREATE TABLE public.utilisateur (
                 email VARCHAR(100) NOT NULL,
                 nom VARCHAR(30) NOT NULL,
